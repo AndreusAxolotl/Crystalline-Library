@@ -1,0 +1,15 @@
+{
+  "name": "Crystalline-Library",
+  "version": "1.0.0",
+  "title": "Crystalline Library",
+  "author": "AndreusAxolotl",
+  "homepage": "https://github.com/AndreusAxolotl/Crystalline-Library",
+  "description": "Internal library for shared assets and code for Muria and Paracelsin.",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base",
+    "space-age",
+    "PlanetsLib"
+],
+"space_travel_required": true
+}
